@@ -9,7 +9,7 @@
   •
   <strong><a href="https://github.com/campsite-app/Camp">Camp</a></strong>
   •
-  <strong><a href="https://campsite.io">Website</a></strong>
+  <strong><a href="https://campsite.chat">Website</a></strong>
   •
   <strong><a href="https://twitter.com/campsitechat">Twitter</a></strong>
 </p>
