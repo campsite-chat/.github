@@ -16,5 +16,6 @@ Campsite is a new communication platform built from the ground up with Rust and 
 
 ## Why are all your repositories private?
 Everyone at Nord is excited about getting our first product ready and out to the public; however, we are equally scared of security and privacy risks.  
+
 We want our first product to be a strong example of what we do, so we're taking it slow and ensuring we do it right.  
 Once we're confident all bugs have been squashed and everything is secure, we will make the client public and see how things go.
